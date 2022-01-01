@@ -14,7 +14,7 @@
    <string>pyQtClient</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="sendButton1">
     <property name="geometry">
      <rect>
       <x>410</x>
@@ -47,7 +47,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QListWidget" name="listWidget">
+   <widget class="QListWidget" name="messagesWidget">
     <property name="geometry">
      <rect>
       <x>10</x>
